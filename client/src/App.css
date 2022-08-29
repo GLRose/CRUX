@@ -1,0 +1,39 @@
+.App {
+  border: 5px solid black;
+  border-radius: 60px;
+  width: 500px;
+  height: 600px;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: rgb(51, 50, 49);
+}
+
+h1{
+  text-align: center;
+}
+.Contents{
+  display: flex;
+  justify-content: center;
+}
+
+.Contents{
+
+  gap: 3px
+}
+
+.Contents input{
+  border-radius: 5px;
+  width: 400px;
+  height: 40px;
+  font-size: large;
+  background-color: rgb(51, 50, 49);
+}
+
+.Contents button{
+  border-radius: 5px;
+  color: white;
+  background-color: blueviolet;
+}
+
+
+
